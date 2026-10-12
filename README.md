@@ -32,8 +32,20 @@ The dashboard helps HR stakeholders explore workforce patterns and identify area
 
 **Project Files**
 - Project.pbix — Power BI report file.
-- Screenshots/ — screenshots of the report pages.
+### 1. HR Executive Overview
+![HR Executive Overview](01-hr-executive-overview.png)
 
+### 2. Workforce Demographics
+![Workforce Demographics](02-workforce-demographics.png)
+
+### 3. Department & Job Analysis
+![Department & Job Analysis](03-department-job-analysis.png)
+
+### 4. Attrition & Employee Retention
+![Attrition & Employee Retention](04-attrition-retention.png)
+
+### 5. Employee Explorer
+![Employee Explorer](05-employee-explorer.png)
 **How to Use**
 - Download Project.pbix from this repository.
 - Open it using Microsoft Power BI Desktop.
